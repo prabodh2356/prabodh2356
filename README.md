@@ -4,11 +4,11 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **[Curreny Converter]**
-- 🌱 I’m currently learning **[DSA and OOPS]**
+- 🔭 I’m currently working on **Curreny Converter**
+- 🌱 I’m currently learning **DSA and OOPS**
 - 💬 Ask me about **Python**
-- 📫 How to reach me **[prabodh.aman2356@gmail.com]**
-- ⚡ Fun fact: **[I love working out! :)]**
+- 📫 How to reach me **prabodh.aman2356@gmail.com**
+- ⚡ Fun fact: **I love working out! :)**
 
 ---
 
@@ -24,28 +24,11 @@
   <!-- Add more tools here -->
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="your-username" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="left">
   <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/prabodh-bagul-397680308/)" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" />
-  </a>
-  <a href="https://twitter.com/your-twitter" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="30" width="30" />
   </a>
   <a href="mailto:prabodh.aman2356@gmail.com" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
