@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Curreny Converter**
 - 🌱 I’m currently learning **DSA and OOPS**
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Java**
 - 📫 How to reach me **prabodh.aman2356@gmail.com**
 - ⚡ Fun fact: **I love working out! :)**
 
