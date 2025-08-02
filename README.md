@@ -1,6 +1,6 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm [Prabodh Bagul]</h1>
-<h3 align="center">A passionate [Software Developer, CS Student] from [Pune]</h3>
+<h1 align="center">Hi 👋, I'm Prabodh Bagul</h1>
+<h3 align="center">A passionate Software Developer, CS Student from Pune</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
